@@ -1,7 +1,7 @@
 package ${packageName};
 
-import com.iotech.base.viper.Presenter;
-import com.iotech.base.viper.interfaces.ContainerView;
+import vn.iotech.base.viper.Presenter;
+import vn.iotech.base.viper.interfaces.ContainerView;
 
 /**
  * The ${className} Presenter

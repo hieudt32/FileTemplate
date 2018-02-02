@@ -1,6 +1,6 @@
 package ${packageName};
 
-import com.gemvietnam.base.viper.ViewFragment;
+import vn.iotech.base.viper.ViewFragment;
 import ${applicationPackage}.R;
 
 /**

@@ -1,6 +1,6 @@
 package ${packageName};
 
-import com.iotech.base.viper.Interactor;
+import vn.iotech.base.viper.Interactor;
 
 /**
  * The ${className} interactor

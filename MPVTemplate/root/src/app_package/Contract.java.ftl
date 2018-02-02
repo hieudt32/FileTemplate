@@ -1,8 +1,8 @@
 package ${packageName};
 
-import com.gemvietnam.base.viper.interfaces.IInteractor;
-import com.gemvietnam.base.viper.interfaces.IPresenter;
-import com.gemvietnam.base.viper.interfaces.PresentView;
+import vn.iotech.base.viper.interfaces.IInteractor;
+import vn.iotech.base.viper.interfaces.IPresenter;
+import vn.iotech.base.viper.interfaces.PresentView;
 
 /**
  * The ${className} Contract
@@ -18,6 +18,3 @@ interface ${className}Contract {
     interface Presenter extends IPresenter<View, Interactor> {
     }
 }
-
-
-
